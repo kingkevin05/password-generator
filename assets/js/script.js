@@ -40,13 +40,10 @@ function generatePassword() {
     // if the user tries to continue w/o an input
     alert("Please enter a value");
     return;
-  } else if (start < 8 || start >128) {
+  } else if (start < 8 || start > 128) {
     //*if the input is < 8 or > 128 the user will be alerted 
-      start = parseInt(prompt("Password must be bewteen 8 and 128 characters"));
-      if (start < 8 || start >128) {
-        alert("Invalid Entry! Try Again");
-        return;
-      }
+    alert("Invalid Entry! Try Again");
+    return;
   } else {
     confirmNumber = confirm("Include numbers in this password?");
     confirmSpecial = confirm("Include special characters in this password?");
