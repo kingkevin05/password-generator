@@ -8,8 +8,7 @@ https://kingkevin05.github.io/wk-3-challenge/
 
 ![screenshot3](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot3.png)
 
-
-# Pseudocode/Planning
+<!-- Pseudocode/Planning
 
 <!-- // start program
 clicking the generate password button
