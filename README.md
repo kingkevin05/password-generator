@@ -1,6 +1,15 @@
 # 03 JavaScript: Password Generator
 
-<hi>Pseudocode/Planning</hi>
+https://kingkevin05.github.io/wk-3-challenge/
+
+![screenshot1](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot1.png)
+
+![screenshot2](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot2.png)
+
+![screenshot3](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot3.png)
+
+
+# Pseudocode/Planning
 
 <!-- // start program
 clicking the generate password button
@@ -35,8 +44,4 @@ clicking the generate password button
   the generated passwprd will be displayed in the <textarea>
 }*/ -->
 
-![screenshot1](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot1.png)
 
-![screenshot2](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot2.png)
-
-![screenshot3](https://github.com/kingkevin05/wk-3-challenge/blob/main/assets/images/Screenshot3.png)
